@@ -2,10 +2,10 @@
   <div class="portal-space-link-area">
     <ul class="portal-space-link-list">
       <li>
-        <img src="../assets/0049.png" />
-        <img src="../assets/0066.png" />
-        <img src="../assets/0116.png" />
-        <img src="../assets/0437.png" />
+        <img src="../assets/town0049.png" />
+        <img src="../assets/town0066.png" />
+        <img src="../assets/town0116.png" />
+        <img src="../assets/town0437.png" />
       </li>
     </ul>
   </div>

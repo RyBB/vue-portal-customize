@@ -2,16 +2,16 @@
   <div class="portal-app-link-area">
     <ul class="portal-app-link-list">
       <li>
-        <img src="../assets/1515.png" />
-        <img src="../assets/2828.png" />
-        <img src="../assets/3535.png" />
-        <img src="../assets/33.png" />
+        <img src="../assets/f_f_business_15_s512_f_business_15_0bg.png" />
+        <img src="../assets/f_f_business_28_s512_f_business_28_0bg.png" />
+        <img src="../assets/f_f_business_35_s512_f_business_35_0bg.png" />
+        <img src="../assets/f_f_business_3_s512_f_business_3_0bg.png" />
       </li>
       <li>
-        <img src="../assets/5555.png" />
-        <img src="../assets/6363.png" />
-        <img src="../assets/8686.png" />
-        <img src="../assets/9797.png" />
+        <img src="../assets/f_f_business_55_s512_f_business_55_0bg.png" />
+        <img src="../assets/f_f_business_63_s512_f_business_63_0bg.png" />
+        <img src="../assets/f_f_business_86_s512_f_business_86_0bg.png" />
+        <img src="../assets/f_f_business_97_s512_f_business_97_0bg.png" />
       </li>
     </ul>
   </div>
