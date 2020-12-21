@@ -3,6 +3,9 @@ import App from './App.vue'
 
 Vue.config.productionTip = false
 
-new Vue({
-  render: h => h(App),
-}).$mount('#app')
+kintone.events.on('portal.show', () => {
+  const el = kintone.portal.getContentSpaceElement();
+  new Vue({
+    render: h => h(App)
+  }).$mount(el);
+});
